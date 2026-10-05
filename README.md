@@ -1,10 +1,10 @@
 <!-- tyhp-readme:start -->
 # tyhpdef/illuminate-conditionable
 
-Tyhp type definitions for `illuminate/conditionable` `13.32.0`.
+Tyhp type definitions for `illuminate/conditionable` `13.33.0`.
 
 ```bash
-composer require --dev tyhpdef/illuminate-conditionable:13.32.0
+composer require --dev tyhpdef/illuminate-conditionable:13.33.0
 ```
 
 This is a metapackage. Composer also installs `tyhpdef/illuminate-conditionable-impl` (type files).
